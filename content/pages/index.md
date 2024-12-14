@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Pausing to notice
+      text: Paying attention
       color: text-dark
     subtitle: Increase your reach
     text: >
