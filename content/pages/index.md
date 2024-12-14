@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Activity
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
