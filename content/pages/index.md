@@ -8,9 +8,8 @@ sections:
       text: Paying attention
       color: text-dark
     subtitle: What are you paying attention to?
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: |
+      Stop and smell the roses!
     actions:
       - type: Button
         label: Get started
