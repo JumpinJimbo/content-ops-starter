@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Pause...
+      text: What do you see...
       color: text-dark
       type: TitleBlock
     subtitle: Stop to smell the roses.
