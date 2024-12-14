@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Look closely...
+      text: Stop to...
       color: text-dark
       type: TitleBlock
     subtitle: What do you notice?
