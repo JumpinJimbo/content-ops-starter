@@ -7,7 +7,7 @@ sections:
       text: Look closely...
       color: text-dark
       type: TitleBlock
-    subtitle: A flower.
+    subtitle: What do you see?
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
