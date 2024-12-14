@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Paying attention
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: What are you paying attention to?
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
