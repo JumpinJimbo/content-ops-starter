@@ -37,54 +37,6 @@ sections:
     styles:
       self:
         alignItems: center
-  - type: GenericSection
-    title:
-      text: What do you see...
-      color: text-dark
-      type: TitleBlock
-    subtitle: Stop to smell the roses.
-    text: >
-      Do you ***stop to smell the roses***? When you encounter beauty, do you
-      notice? Do you pause to take it in?
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/Subject.png
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: ''
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
