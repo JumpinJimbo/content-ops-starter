@@ -8,8 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: What do you notice?
-    text: |
-      "Stop and smell the roses"
+    text: >
+      Do you ***stop to smell the roses***? When you encounter beauty, do you
+      notice? Do you pause to take it in?
     actions:
       - label: Get started
         altText: ''
